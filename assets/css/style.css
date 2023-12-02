@@ -62,16 +62,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Styles the sidebar. */
 .benefits {
     margin-right: 20px;
@@ -148,4 +138,14 @@ p {
 /* Amended from a h2 as it was changed to h3 in the index.html, in order to keep sequential order. */
 .footer h3 {
     font-size: 20px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
