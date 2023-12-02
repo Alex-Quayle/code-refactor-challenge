@@ -11,11 +11,14 @@ I haven't refactored code before, so it was great to approach a project in this 
 No installation necessary. Please visit https://alex-quayle.github.io/horiseon-landing-page/ to view the webpage.
 
 ## Credits
-Mozilla Developers Network (2023, April 13). <article>: The Article Contents element. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
 
-W3Schools (n.d.). HTML Semantic Elements. https://www.w3schools.com/html/html5_semantic_elements.asp
+No direct code was copied or paraphrased in this project. However, the following articles were used to inform the decisions on what to include in the project:
 
-Mozilla Developers Network (2023, April 13). <aside>: The Aside element. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+> Mozilla Developers Network (2023, April 13). < article >: The Article Contents element. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+
+> W3Schools (n.d.). HTML Semantic Elements. https://www.w3schools.com/html/html5_semantic_elements.asp
+
+> Mozilla Developers Network (2023, April 13). < aside >: The Aside element. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
 
 
 ## License
