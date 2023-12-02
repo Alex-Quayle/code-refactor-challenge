@@ -8,7 +8,8 @@ I haven't refactored code before, so it was great to approach a project in this 
 
 ## Installation
 
-No installation necessary. Please visit https://alex-quayle.github.io/horiseon-landing-page/ to view the webpage.
+No installation necessary. Please visit https://alex-quayle.github.io/horiseon-landing-page/ to view the webpage. Below is a screenshot of the deployed page:
+![A screenshot of the landing page.] (deployed-page.png "Horiseon Landing Page")
 
 ## Credits
 
